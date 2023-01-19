@@ -1,5 +1,30 @@
 ### Hi there 👋
 
+# atls2200.github.io
+
+## Projects
+- HTML
+- CSS
+- JS
+
+## In-Class Assignments
+- ICA 1
+- ICA 2
+- ICA 3
+- ICA 4
+- ICA 5
+- ...you get the idea
+
+## Weekly Assignments
+- [WA 1](https://dhdpic.github.io)
+- WA 2
+- WA 3
+- WA 4
+- WA 5
+- ...you get the idea
+
+
+
 <!--
 **DHDPIC/dhdpic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
