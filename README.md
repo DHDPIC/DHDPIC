@@ -1,6 +1,5 @@
-### Hi there 👋
-
-# atls2200.github.io
+# dhdpic.github.io
+### atls2200
 
 ## Projects
 - HTML
