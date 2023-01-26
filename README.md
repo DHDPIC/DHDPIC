@@ -7,8 +7,8 @@
 - JS
 
 ## In-Class Assignments
-- ICA 1
-- ICA 2
+- [ICA 1](ica/pdfs/myica1.pdf)
+- [ICA 2](ica/pdfs/myica2.pdf)
 - ICA 3
 - ICA 4
 - ICA 5
@@ -16,7 +16,7 @@
 
 ## Weekly Assignments
 - [WA 1](https://dhdpic.github.io)
-- WA 2
+- [WA 2](https://dhdpic.github.io/wa/wa2.html)
 - WA 3
 - WA 4
 - WA 5
