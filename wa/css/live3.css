@@ -1,0 +1,26 @@
+body, html {
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    font-size: 64px;
+}
+
+#background {
+    min-width: 100%;
+    min-height: 100%;
+}
+
+#overlay1 {
+    color: darkmagenta;
+    position: fixed;
+    top: 100px;
+    right: 50px;
+
+}
+
+#overlay2 {
+    color: seagreen;
+    position: fixed;
+    bottom: 100px;
+    right: 50px;
+}

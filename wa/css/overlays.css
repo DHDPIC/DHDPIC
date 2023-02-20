@@ -31,7 +31,7 @@ p {
 #overlay2 {
     margin: auto;
     width:600px;
-    height: 1.5em;
+    height: 3em;
     padding-top: 0.5em;
     /*line-height: 2em;*/
     color: #003366;
@@ -54,6 +54,7 @@ p {
     background-color: #003366;
     color: #FFF;
 }
+
 #timevalue {
     position: absolute;
     left: 80px;
@@ -88,3 +89,4 @@ p {
     position: absolute;
     right: 10px;
 }
+
